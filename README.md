@@ -3,3 +3,6 @@
 ### About
 
 Making cycling safe for cyclists!
+
+### Team
+Kartik Mistry
